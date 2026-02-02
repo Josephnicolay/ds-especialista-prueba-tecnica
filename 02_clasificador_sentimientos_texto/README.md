@@ -20,7 +20,7 @@ Diseño de un clasificador de texto para predecir sentimientos utilizando técni
 ## Objetivo
 Desarrollar un clasificador de sentimientos usando técnicas tradicionales de procesamiento de lenguaje natural y algoritmos de machine learning clásicos.
 
-## Tareas Principales
+## Tareas Principales (p2)
 1. Exploración y análisis del corpus de texto
 2. Preprocesamiento de texto (limpieza, tokenización, etc.)
 3. Vectorización de texto (TF-IDF, Count Vectorizer, etc.)
