@@ -4,5 +4,10 @@ pandas==3.0.0
 scikit-learn==1.8.0
 seaborn==0.13.2
 nltk
+gensim
 wordcloud
-torch
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
+torchinfo==1.8.0
+torchmetrics==1.8.2
+torchvision==0.20.1+cu121

@@ -4,7 +4,4 @@ create_venv:
 	pyenv shell $(PYTHON_VERSION) &&\
 	mkvirtualenv p2_$(PYTHON_VERSION) &&\
 	pip install --upgrade pip &&\
-	pip install -r requirements.txt
-
-run_pipeline:
-	python -m src.pipeline
+	pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu121
